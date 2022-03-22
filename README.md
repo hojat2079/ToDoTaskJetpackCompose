@@ -4,7 +4,5 @@ This is a simple ToDo app for task management developed with jetpack compose and
 
 In this project, mvvm architecture, room and dagger-hilt libraries are used. 
 
-![film_task](https://uupload.ir/view/video_2022-03-22_11-38-48_yj70.mp4/)
-
-
+https://user-images.githubusercontent.com/57577286/159474462-b63c8734-1e86-415b-b090-79d822ef73af.mp4
 
