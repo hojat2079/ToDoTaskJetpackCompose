@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">To-Do Compose</string>
+    <string name="add_task">Add Task</string>
+    <string name="search_action">Search Action</string>
+    <string name="priority_action">Priority Action</string>
+    <string name="delete_all_action">Delete All Action</string>
+    <string name="search">Search</string>
+    <string name="close_action">Close Action</string>
+    <string name="list_screen_title_appbar">Tasks</string>
+    <string name="sad_icon">Sad Icon</string>
+    <string name="text_empty_content">No Task founded</string>
+    <string name="back_action">Back Action</string>
+    <string name="delete_action">Delete Action</string>
+    <string name="arrow_drop_down">Arrow Drop Down</string>
+    <string name="title">Title</string>
+    <string name="desc">Description</string>
+    <string name="emptyToast">Fields Empty.</string>
+    <string name="ok">OK</string>
+    <string name="undo">Undo</string>
+    <string name="remove_all">All Task Removed</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="deleteTask">Remove \'%1$s\'?</string>
+    <string name="deleteTaskDescription">Are you sure you want to remove \'%1$s\'?</string>
+    <string name="deleteAllTask">Remove All Tasks?</string>
+    <string name="deleteAllTaskDescription">Are you sure you want to remove All Tasks? there is no going to back after this action…</string>
+    <string name="splashImage">splash image</string>
+</resources>
